@@ -18,3 +18,6 @@ C:\Users\serge\Desktop\kool\SoftAssurance2\obj\Debug\CodeContractAnalysisRun.log
 C:\Users\sergei.malyshev\Desktop\SoftAssurance2\bin\Debug\SoftAssurance2.exe.config
 C:\Users\sergei.malyshev\Desktop\SoftAssurance2\obj\Debug\SoftAssurance2.exe
 C:\Users\sergei.malyshev\Desktop\SoftAssurance2\obj\Debug\SoftAssurance2.pdb
+C:\Users\sergei.malyshev\source\repos\softassurance\bin\Debug\SoftAssurance2.exe.config
+C:\Users\sergei.malyshev\source\repos\softassurance\obj\Debug\SoftAssurance2.exe
+C:\Users\sergei.malyshev\source\repos\softassurance\obj\Debug\SoftAssurance2.pdb
