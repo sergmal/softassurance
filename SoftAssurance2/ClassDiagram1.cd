@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SoftAssurance.Account">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BABQCBBABCAAgAAAAAAAAAQAIAACAAAAAACQBAAAAAE=</HashCode>
+      <FileName>Account.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Contacts" />
+      <Property Name="Addresses" />
+      <Property Name="Opportunities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SoftAssurance.Contact">
+    <Position X="6" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABACBBAACAAAAAAAAAAAAQAIAACAAAAAAAAJAAAAAE=</HashCode>
+      <FileName>Contact.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Addresses" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="SoftAssurance.Opportunity">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIQCABEAAAgAAAAAAAAAAwAAAACAAAACAAARAAAAAE=</HashCode>
+      <FileName>Opportunity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SoftAssurance.Address">
+    <Position X="9" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAAAAAAAIAAAAAAAAAIAAAAgAAIABAAAAAA=</HashCode>
+      <FileName>Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
